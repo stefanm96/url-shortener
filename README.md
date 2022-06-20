@@ -1,16 +1,16 @@
 # URL Shortener
 This is a basic URL Shortener build in Java, Spring Boot and H2.
 
+
 ## How to use locally:
 to start the application run: `./gradlew bootRun`
 
 the application will be started on port 8080
 
 
-
 ## Endpoints:
-### Shortening:
 
+### Shortening:
 Request:
 ```
 POST /short
